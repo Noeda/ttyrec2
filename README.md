@@ -7,6 +7,14 @@ records input.
 
 Ttyrec2 files are not compatible with ttyrec files.
 
+What is ttyrec?
+---------------
+
+Ttyrec records terminal sessions, somewhat similar to the UNIX `script` tool.
+Several roguelike communities record games using ttyrec. Ttyplay, included
+with this software, can be used to playback the records. There are also other
+ttyrec players such as termplay, ipbt and jettyplay.
+
 Usage
 -----
 
