@@ -40,7 +40,7 @@ Now, it would be embarrassing if you recorded things like passwords to your
 ttyrec2 files and sent them to someone. I've added a stupid hack so you can
 avoid embarrassment. If you press CTRL+B while recording, it will turn off
 input recording and give a message about it (and that message may or may not
-mess up your screen a bit).
+mess up your screen a bit). Press again and input recording resumes.
 
 License
 -------
